@@ -106,7 +106,6 @@ ANN - 30%
 - ROC curves for model comparison
 ![ROC curve](4.png)
 
-
 ## Results
 ```
 Model                Accuracy     Kappa     Precision    Recall    F1-Score
