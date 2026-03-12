@@ -100,13 +100,17 @@ ANN - 30%
 ![PCA Proyeccion datos](Proyeccion_datos.jpeg)
 
 - Stathistics of each model comparison
+
 **Individual models**
+  
 ![Individual models](individual_models.jpeg)
 
 **Stacking model**
+
 ![Stacking](stacking.jpeg)
 
 **Stacking without Neural Network**
+
 ![Stacking no Neural Network](Stacking_noNN.jpeg)
 
 
